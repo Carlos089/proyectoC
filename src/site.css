@@ -1,0 +1,26 @@
+.jota-recreation {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.jota-recreation h2 {
+    color: blue;
+    text-transform:capitalize;
+}
+
+main {
+    display:flex;
+    justify-content:space-between;
+}
+
+section {
+    border: 3px solid yellow
+}
+
+.flamenco-header {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    max-width: 50%;
+    width:100px;
+}
